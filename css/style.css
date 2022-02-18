@@ -189,7 +189,7 @@ section {
 }
 .hero::before {
   content: "";
-  background: url(/img/lower-mv-decoration_sp.png) center/cover no-repeat;
+  background: url(../img/lower-mv-decoration_sp.png) center/cover no-repeat;
   bottom: 0;
   height: 250px;
   left: 0;
@@ -200,7 +200,7 @@ section {
 }
 @media (min-width: 768px) {
   .hero::before {
-    background: url(/img/lower-mv-decoration_pc.png) center/cover no-repeat;
+    background: url(../img/lower-mv-decoration_pc.png) center/cover no-repeat;
     width: 365px;
   }
 }
@@ -444,7 +444,7 @@ section {
 
 .footer-download {
   width: 100%;
-  background: url(/img/img-download.png) no-repeat center/cover;
+  background: url(../img/img-download.png) no-repeat center/cover;
   padding: 45px 40px 26px;
 }
 @media (min-width: 768px) {
@@ -456,7 +456,7 @@ section {
 
 .footer-contact {
   width: 100%;
-  background: url(/img/img-contact.png) no-repeat center/cover;
+  background: url(../img/img-contact.png) no-repeat center/cover;
   padding: 45px 40px 26px;
 }
 @media (min-width: 768px) {
@@ -1353,7 +1353,7 @@ section {
     -webkit-transform: skewY(-10deg);
             transform: skewY(-10deg);
     display: block;
-    background: url(/img/bg-company.png) center/cover no-repeat;
+    background: url(../img/bg-company.png) center/cover no-repeat;
     width: 43%;
     height: 70.3125vw;
     max-height: 800px;
@@ -1425,7 +1425,7 @@ section {
 }
 
 .about-bg {
-  background: url(/img/bg-company.png) center/cover no-repeat;
+  background: url(../img/bg-company.png) center/cover no-repeat;
   width: 100%;
   height: 96.53333vw;
   position: absolute;
@@ -1565,7 +1565,7 @@ section {
 /* case-study
 ===================================== */
 .study {
-  background: url(/img/bg-company.png) no-repeat center/cover;
+  background: url(../img/bg-company.png) no-repeat center/cover;
   color: #fff;
   position: relative;
 }
@@ -1828,7 +1828,7 @@ section {
 /* mission
 ===================================== */
 .mission-wrapper {
-  background: url(/img/img-company01_sp.png) no-repeat center/cover;
+  background: url(../img/img-company01_sp.png) no-repeat center/cover;
 }
 
 /*  mission と vision の共通cssは "mission" に記述  */
@@ -1841,13 +1841,13 @@ section {
 }
 
 .vision-wrapper {
-  background: url(/img/img-company02_sp.png) no-repeat center/cover;
+  background: url(../img/img-company02_sp.png) no-repeat center/cover;
 }
 
 /* vision
 ===================================== */
 .company {
-  background: url(/img/bg-company.png) center/cover no-repeat;
+  background: url(../img/bg-company.png) center/cover no-repeat;
   padding: 40px 20px;
   margin-top: 60px;
 }
@@ -2354,7 +2354,7 @@ section {
 /* process
 ===================================== */
 .process {
-  background: url(/img/bg-service-flow_sp.png) center/cover no-repeat;
+  background: url(../img/bg-service-flow_sp.png) center/cover no-repeat;
 }
 @media (min-width: 768px) {
   .process {
@@ -3220,7 +3220,7 @@ section {
   }
 }
 .case-item_lead::before {
-  background: url(/img/icon-checkbox.png) center/cover no-repeat;
+  background: url(../img/icon-checkbox.png) center/cover no-repeat;
   width: 15px;
   height: 15px;
   position: absolute;
